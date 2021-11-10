@@ -16,6 +16,6 @@
 
 ### Stats 📈
 
-![Alex's GitHub stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucchesia7&show_icons=true&locale=en" alt="lucchesia7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucchesia7&show_icons=true&locale=en" alt="lucchesia7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucchesia7&" alt="lucchesia7" /></p>
