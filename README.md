@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex Lucchesi!</h1>
-<h3 align="center">I'm a driven Data Scientist from Washington who is passionate about using data to influence business decisions </h3>
+<h3 align="center">I'm a driven Data Scientist from Seattle, Washington who is passionate about data storytelling! </h3>
 
 
 - 🔭 I’m currently working on [Applying Data Analytics and ML Methods to Reduce Homelessness Rates in Texas](https://share.streamlit.io/asrst/omdena-texas-homelessness/main/src/streamlit_app/app.py)
-- 🌱 I’m currently learning Advanced Statistical Methods
+- 🌱 I’m currently learning Object Oriented Programming
 - 🎓 Recent Lambda School, Data Science graduate
 - 💬 Ask me about anime or my top 5 video games!
 - ⚡ Fun fact: I can play almost every instrument!
