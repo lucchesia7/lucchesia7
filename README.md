@@ -2,7 +2,7 @@
 <h3 align="center">I'm a driven Data Scientist from Seattle, Washington who is passionate about data storytelling! </h3>
 
 
-- 🔭 I’m currently working on [Applying Data Analytics and ML Methods to Reduce Homelessness Rates in Texas](https://share.streamlit.io/asrst/omdena-texas-homelessness/main/src/streamlit_app/app.py)
+- 🔭 I’m currently working on [Congressional Natural Language Processing Application](https://github.com/Congressional-NLP-Application/congressional_nlp_app)
 - 🌱 I’m currently learning Object Oriented Programming
 - 🎓 Recent Lambda School, Data Science graduate
 - 💬 Ask me about anime or my top 5 video games!
