@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Congressional NLP Application](https://github.com/Congressional-NLP-Application/congressional_nlp_app)
 
-- 🌱 I’m currently learning **Object Oriented Programming**
+- 🌱 I’m currently learning about **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Video Game Sales Forecast**
 
