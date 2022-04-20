@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucchesia7" alt="lucchesia7" /></a> </p>
 
-- 🔭 I’m currently working on [Congressional NLP Application](https://github.com/Congressional-NLP-Application/congressional_nlp_app)
+- 🔭 I’m currently working on [Magic The Gathering Card Recommendation System](https://github.com/lucchesia7/MTG_app)
 
-- 🌱 I’m currently learning about **Data Structures and Algorithms**
+- 🌱 I’m currently learning about **Kotlin Programming and Statistical Analysis with R**
 
 - 👯 I’m looking to collaborate on **Video Game Sales Forecast**
 
