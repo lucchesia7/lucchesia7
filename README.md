@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucchesia7" alt="lucchesia7" /></a> </p>
 
-- 🔭 I’m currently working on [Magic The Gathering Card Recommendation System](https://github.com/lucchesia7/MTG_app)
+- 🔭 I’m currently working on: [Magic The Gathering Card Recommendation System](https://github.com/lucchesia7/MTG_app)
 
-- 🌱 I’m currently learning about **Kotlin Programming and Statistical Analysis with R**
-
-- 👯 I’m looking to collaborate on **Video Game Sales Forecast**
+- 🌱 I’m currently learning about: **Convolutional Neural Networks**
 
 - 💬 Ask me about **My favorite video game**
 
-- 📫 How to reach me **alex.lucchesi@bloomtech.com**
+- 📫 How to reach me **lucchesia7@gmail.com**
 
 - ⚡ Fun fact **I know how to play almost ever instrument**
 
