@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucchesia7&show_icons=true&locale=en" alt="lucchesia7" /></p>
 
-
+[![@lucchesia7's Holopin board](https://holopin.me/lucchesia7)](https://holopin.io/@lucchesia7)
