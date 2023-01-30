@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Lucchesi</h1>
-<h3 align="center">I am a driven data scientist, focused on bringing data to life through data storytelling and visualizations</h3>
+<h3 align="center">I am a passionate Data Analytics Instructor, focused on bringing data to life through data storytelling and visualizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucchesia7&label=Profile%20views&color=0e75b6&style=flat" alt="lucchesia7" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on: [Magic The Gathering Card Recommendation System](https://github.com/lucchesia7/MTG_app)
 
-- 🌱 I’m currently learning about: **Convolutional Neural Networks**
+- 🌱 I’m currently learning about: **R for Data Analysis**
 
-- 💬 Ask me about **My favorite video game**
+- 💬 Ask me about **My favorite video game or anime!**
 
 - 📫 How to reach me **lucchesia7@gmail.com**
 
